@@ -76,6 +76,7 @@ Fast vs slow-moving items
 10. Order Value Analysis
 Average order value (AOV)
 High-value orders
+
 🔍 Key Business Insights
 📈 Demand is time-dependent (peaks during lunch & dinner)
 🍟 Few menu items generate majority of revenue (Pareto effect)
