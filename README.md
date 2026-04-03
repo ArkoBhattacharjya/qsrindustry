@@ -103,6 +103,7 @@ High-value orders
 4. Introduce loyalty & retention programs
 5. Use demand forecasting for inventory
 6. Upsell combos to increase order value
+   
 📌 Conclusion
 
 This project highlights how a data-centric approach can transform QSR operations. By leveraging analytics, businesses can enhance efficiency, improve customer satisfaction, and achieve scalable growth.
