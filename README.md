@@ -78,15 +78,25 @@ Average order value (AOV)
 High-value orders
 
 🔍 Key Business Insights
+
 📈 Demand is time-dependent (peaks during lunch & dinner)
+
 🍟 Few menu items generate majority of revenue (Pareto effect)
+
 🚚 Delivery delays increase during peak hours
+
 👥 A small group of customers drives most revenue
+
 🔁 Customer retention is relatively low
+
 💳 Digital payments dominate (UPI/cards)
+
 🏪 Store performance varies significantly
+
 📦 Inventory is often mismanaged (overstock/understock)
+
 💡 Business Recommendations
+
 Optimize staffing during peak hours
 Promote high-performing menu items
 Improve delivery routing & capacity
